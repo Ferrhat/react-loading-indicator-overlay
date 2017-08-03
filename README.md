@@ -1,17 +1,17 @@
-# React Overlay loading
+# React Loading Indicator Overlay
 
 ![MacDown Screenshot](https://goo.gl/Jbd4Et)
 
 ## Installation
 
 ```
-npm install --save react-overlay-loading
+npm install --save react-loading-indicator-overlay
 ```
 
 ## Usage
 ```
 
-import OverlayLoader from 'react-overlay-loading/lib/OverlayLoader'
+import OverlayLoader from 'react-loading-indicator-overlay/lib/OverlayLoader'
 
 <OverlayLoader 
               color={'red'} // default is white
@@ -48,10 +48,10 @@ import OverlayLoader from 'react-overlay-loading/lib/OverlayLoader'
 * BounceLoader
 ```
 
-##Example
+## Example
 
 ```
-git clone https://github.com/ydornala/react-overlay-loading.git
+git clone https://github.com/Ferrhat/react-loading-indicator-overlay.git
 
 cd examples
 
@@ -61,7 +61,10 @@ npm start
 
 ```
 
-##Credits
+## Credits
+
+This is a fork of ydornala's react-overlay-loading
+[ https://github.com/ydornala/react-overlay-loading]()
 
 The loaders which are used are being taken from halogen
 [ https://github.com/yuanyan/halogen]()

@@ -1,5 +1,5 @@
 {
-  "name": "react-overlay-loading",
+  "name": "react-loading-indicator-overlay",
   "version": "1.0.3",
   "description": "react overlay laoding for react components",
   "main": "index.js",
@@ -10,20 +10,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yeshwanthdornala/react-overlay-loading.git"
+    "url": "git+https://github.com/Ferrhat/react-loading-indicator-overlay"
   },
   "keywords": [
     "react",
     "react-overlay-loading",
+    "react-loading-indicator-overlay",
     "overlay-loading",
     "overlay-spinner"
   ],
-  "author": "Yeshwanth Dornala",
+  "author": "Ferhat Özkan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yeshwanthdornala/react-overlay-loading/issues"
+    "url": "https://github.com/Ferrhat/react-loading-indicator-overlay/issues"
   },
-  "homepage": "https://github.com/yeshwanthdornala/react-overlay-loading#readme",
+  "homepage": "https://github.com/Ferrhat/react-loading-indicator-overlay#readme",
   "dependencies": {
     "halogen": "^0.2.0",
     "styled-components": "^1.4.3",
